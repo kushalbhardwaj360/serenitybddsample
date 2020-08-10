@@ -5,7 +5,6 @@ import org.openqa.selenium.WebElement;
 import net.serenitybdd.core.annotations.findby.FindBy;
 import net.serenitybdd.core.pages.PageObject;
 import net.thucydides.core.annotations.DefaultUrl;
-import net.thucydides.core.annotations.WhenPageOpens;
 
 @DefaultUrl("http://www.mississauga.ca/portal/home")
 public class SaugaSearchPage extends PageObject {
